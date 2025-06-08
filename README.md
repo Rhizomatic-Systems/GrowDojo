@@ -2,7 +2,9 @@
 <!--- readme.md version 1.1.9
 File contributors:
 • @Rhizosphere
-
+ToDo:
+- Add Mastodon address
+- Add steemit and Odysee 
 --->
 
 An opensource modular and scaleable agricultural environment monitor and controller for any crop, any where in the world, using any cultivation method such as:
@@ -51,41 +53,54 @@ Potentials:
 
 ## Beyond GitHub
 ### Social Media
-- Instagram
-- Threads
-- X
-- Nostr
-- Mastodon
+<a href="https://www.instagram.com/grow.dojo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/250px-Instagram_logo_2022.svg.png" alt="instagram profile" width="40" height="width" /></a> <a href="https://www.threads.net/@grow.dojo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/250px-Threads_%28app%29.svg.png"
+alt="threads profile" height="40" width="40" /></a> <a href="https://x.com/TheGrowDojo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/X-Logo-Round-Color.png/250px-X-Logo-Round-Color.png" alt="x profile" height="40" width="40" /></a> <a href="https://iris.cx/npub1c43jqhd8xha7tawhnjuvfskxgl3rnvk4vpujxhgmpp6pfkdqht2sje8xcq"> <img src="https://github.com/mbarulli/nostr-logo/blob/main/PNG/nostr-icon-purple-transparent-256x256.png"
+alt="nostr profile" height="40" width="40" /></a> <a href="https://t.me/growdojo_core">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram channel" height="40" width="40" /></a> 
+<!--
+<a href="
+">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/223px-Mastodon_Logotype_%28Simple%29.svg.png
+"
+alt="
+" height="40" width="40" /></a> 
+
+<a href="
+">
+<img src="
+"
+alt="
+" height="40" width="40" /></a> 
+
 - Reddit
 - Odysse
-- Steemit
+- Steemit -->
 
-### Contact (* collaboration possible)
+
+## Community
+<!-- add tip -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg" alt="Element" height="40" width="40" /> <img src="https://simplex.chat/img/new/logo-symbol-light.svg" alt="simplex chat" height="40" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Session_App_Logo.svg/250px-Session_App_Logo.svg.png" alt="session" height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> <a href="https://t.me/+5Gd7C8qUyopiODZl">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram" height="40" height="40" /></a>
+<br>
+
+
 - Email
-- Element*
-- SimpleX
 - Briar
-- Session
 - Wire
 - Signal
 - Discord?
 - Surespot
 - IRC
 - XMPP 
-- Keybase*
 
 *these platforms also provide the ability for project development
 
-### Community Links
-- Element
-- SimpleX Chat
-- Session
-- Signal
-- IRC
-- Keybase
-- Discord
+## Community Links
 
-### Other
+## Other
 - Gitlab
 - dev.io
 - Codeburg (lol)
