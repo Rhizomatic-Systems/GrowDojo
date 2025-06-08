@@ -1,4 +1,4 @@
-# GrowDojo
+<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/growdojoheader-alpha-one.jpg" />
 <!--- readme.md version 1.1.9
 File contributors:
 • @Rhizosphere
