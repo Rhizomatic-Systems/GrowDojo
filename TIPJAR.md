@@ -21,6 +21,8 @@ benignspruce55@walletofsatoshi.com
 ```
 0x5796540EC4C6666FDC628A00f29990aD8aF7aa1b
 ```
+<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/QR_ETH_Collective_Public.jpg" width="200" height="200" alt="erc20 qr code" />
+
 ### Litecoin (LTC) <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32/color/ltc.png" width="20" height="20" alt="litecoin logo" />
 **Address:**
 ```
