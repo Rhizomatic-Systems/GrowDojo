@@ -27,12 +27,13 @@ An opensource modular and scaleable agricultural environment monitor and control
 ## The GrowDojo Ethos
 These are some of the guiding philosophies that shape how the project develops and its function:
 - Dentralization
-- Opensource
 - Peer-based-production
 - Code is Free Speech
 - Privacy and Anonymity
 - Trustless 
 - Apolitical
+<p align="center">
+<a href="https://oshwa.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" alt="open source hardware" height="100" width="95" /> </a> </p>
 
 ## Tools Used / Contributions
 ### Hardware, Languages, Protocols, and Programs 
@@ -50,6 +51,7 @@ alt="bitcoin lightning network" height="40" width="40" /></a> <a href="https://e
 alt="markdown" height="40" width="65" /></a> <a href="https://forgejo.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Forgejo_logo.svg/250px-Forgejo_logo.svg.png"
 alt="forgejo" height="40" width="40" /></a> 
+<a href="https://micropython.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/250px-Micropython-logo.svg.png" alt="micropython" height="40" width="40" /></a> <a href="https://nodejs.org/en"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40" /></a> <a href="https://www.javascript.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40" /></a> <a href="https://www.tensorflow.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="40" width="40" /></a> <a href="https://pytorch.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40" width="40" /></a> <a href="https://pandas.pydata.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="python data analysis library" height="40" width="40" /></a> <a href="https://numpy.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40" /></a> <a href="https://www.typescriptlang.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40" /></a> <a href="https://react.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40" width="40" /></a> <a href="https://vuejs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue.js" height="40" width="40" /></a> <a href="https://www.influxdata.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" alt="influxDB" height="40" width="40" /></a> <a href="https://nodered.org/"> <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="nodered" height="40" width="40" /></a> <a href="https://www.home-assistant.io/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Home_Assistant_logo_%282023%29.svg/240px-Home_Assistant_logo_%282023%29.svg.png" alt="home-assistant" height="40" width="40" /></a> <a href="https://en.wikipedia.org/wiki/Wi-Fi"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WiFi_Logo.svg/330px-WiFi_Logo.svg.png" alt="wifi" height="40" width="67" /></a> <a href="https://en.wikipedia.org/wiki/Bluetooth_Low_Energy"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bluetooth.svg/250px-Bluetooth.svg.png" alt="bluetooth low energy" height="40" width="26" /></a> <a href="https://vscodium.com/"> <img src="https://vscodium.com/img/codium_cnl.svg" alt="vscodium" height="40" width="40" /> </a>
 
 </p>
 
