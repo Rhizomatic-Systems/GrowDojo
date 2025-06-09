@@ -1,5 +1,5 @@
 <img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.2.1
+<!--- readme.md version 1.2.2
 File contributors:
 • @Rhizosphere
 ToDo:
@@ -143,12 +143,12 @@ alt="forejo self hosted" height="40" width="107" /></a>
 - XMPP - contact
 
 ## EDUCATION SOURCES
-<!-- create EDUCATION.md -->
-This project will try as much as possible to cater to those new to contributing to FOSS projects. The EDUCATION.md file contains a list of resources ranging from tech to Horticulture. 
-- Learning Arduino and Raspberry Pi
-- Linux
-- Networking
+This project will try as much as possible to cater to those new to contributing to FOSS projects. The <a href="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/docs/EDU_SOURCES.md">
+EDU_SOURCES.md</a> file contains a list of resources ranging from tech to Horticulture. 
+- Arduino, Raspberry Pi, ESP32
+- Linux, BASH
+- Networking, TCP/IP, Reticulum 
 - CS50
-- Coding Books
-- Coding Sites
+- Coding Books 📚 
+- Coding Sites 🌐
  
