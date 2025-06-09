@@ -1,5 +1,5 @@
 <img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.1.9
+<!--- readme.md version 1.2.1
 File contributors:
 • @Rhizosphere
 ToDo:
@@ -72,11 +72,12 @@ Any form of art related to the project in any media, such as drawing, technical 
 #### Miscellaneous 
 Technical documents, document translations, community moderators and admins, researchers, etc...
 #### Financial Contributors 
-Please see TIPJAR.md for Contribution methods. Financial contributions allow for:
+Please see <a href="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/TIPJAR.md">
+TIPJAR.md</a> for Contribution methods. Financial contributions allow for:
 - More dev experimentation and testing
 - Providing small financial rewards to contributors
 - Running the GrowDojo infrastructure (paying for services such as hosting)
-
+<!-- accepted currency icon row 20px centered paragraph -->
 ## Contact 
 
 > [!TIP]
