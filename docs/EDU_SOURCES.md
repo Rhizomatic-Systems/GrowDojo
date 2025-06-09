@@ -1,5 +1,10 @@
 # Educational Resources
-
+<!-- Doc Version 0.4.2
+Contributors:
+@rhizosphere
+(leave your name here)
+New link = minor update 
+-->
 ## Contents
 - Arduino
 - Raspberry Pi
