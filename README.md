@@ -19,7 +19,7 @@ An opensource modular and scaleable agricultural environment monitor and control
 - To be approachable for people new to art and science of devops and/or plant production by providing educational resources.
 - Able to be replicated using easily accessible parts.
 - Level of complexity to be determined by each maker.
-- Provide a part of the technical solution to the political problem of food scarcity.
+- Provide a part of the technical solution to the politically exasperated problem of food scarcity.
 
 ## The GrowDojo Ethos
 These are some of the guiding philosophies that shape how the project develops and its function:
@@ -79,7 +79,7 @@ alt="
 - Steemit -->
 
 
-## Community
+### Community
 <!-- add tip -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg" alt="Element" height="40" width="40" /> <img src="https://simplex.chat/img/new/logo-symbol-light.svg" alt="simplex chat" height="40" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Session_App_Logo.svg/250px-Session_App_Logo.svg.png" alt="session" height="40" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> <a href="https://t.me/+5Gd7C8qUyopiODZl">
@@ -98,31 +98,35 @@ alt="
 
 *these platforms also provide the ability for project development
 
-## Community Links
+### Community Links
 
-## Other
+### Other
 - Gitlab
 - dev.io
+<!--- self-hosting --->
 - Codeburg (lol)
 
+## Contributiing
+### Development Contribution
 
-### Coming Soon:
-**COMMUNITIES AND CHANNELS**
-- [ ] Element
-- [ ] SimpleX Chat 
-- [ ] Reddit
-- [ ] Signal
-- [ ] IRC
-- [ ] Session
-- [ ] Wire
-- [ ] Email List
-- [ ] Keybase
-- [ ] The online one i forgot<<<<<<<<<
-**EDUCATION SOURCES**
+### Operation Contribution
+- Running GrowDojo setup and give feedback and suggestions 
+### Artistic Contributions
+- Logo creation
+- Any form of art related to the project in any media, such as drawing, photos, video, etc...
+### Financial Contributions
+Please see TIPJAR.md for Contribution methods. Financial contributions allow for:
+- More dev experimentation and testing
+- Providing small financial rewards to contributors
+- Running the GrowDojo infrastructure (paying for services such as hosting)
+
+## EDUCATION SOURCES
+<!-- create EDUCATION.md -->
+This project will try as much as possible to cater to those new to contributing to FOSS projects. The EDUCATION.md file contains a list of resources ranging from tech to Horticulture. 
 - Learning Arduino and Raspberry Pi
 - Linux
 - Networking
 - CS50
 - Coding Books
 - Coding Sites
- <!--- self-hosting --->
+ 
