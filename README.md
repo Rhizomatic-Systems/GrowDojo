@@ -44,10 +44,16 @@ alt="nostr protocol" height="40" width="40" /></a> <a href="https://www.raspberr
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" height="40" width="40" /></a> <a href="https://www.rust-lang.org/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"
 alt="rust language" height="40" width="40" /></a> <a href="https://soliditylang.org/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity language" height="40" width="40" /></a> </p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity language" height="40" width="40" /></a> <a href="https://lightning.network/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Bitcoin_lightning_logo.png"
+alt="bitcoin lightning network" height="40" width="40" /></a> <a href="https://en.wikipedia.org/wiki/Markdown"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png"
+alt="markdown" height="40" width="65" /></a> <a href="https://forgejo.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Forgejo_logo.svg/250px-Forgejo_logo.svg.png"
+alt="forgejo" height="40" width="40" /></a> 
+
+</p>
 
 This is an (expanding) list of the tools and the skill to use them required for GrowDojo development (not necessarily deployment):
-- Markdown
 Potentials:
 - ASCIIdoc
 - JSON
@@ -72,8 +78,14 @@ Please see TIPJAR.md for Contribution methods. Financial contributions allow for
 - Running the GrowDojo infrastructure (paying for services such as hosting)
 
 ## Contact 
+
+> [!TIP]
+> Refer to CONTACT.md to choose the best method of communication for your current situation.
+
 <a href="https://t.me/+5Gd7C8qUyopiODZl">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a> <a href="mailto:growdojo@protonmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ProtonMail_icon.svg/106px-ProtonMail_icon.svg.png"
+alt="proton mail" height="40" width="49" /></a> 
 
 ## Beyond GitHub
 ### Social Media
@@ -102,18 +114,26 @@ alt="
 - Odysse
 - Steemit -->
 
-### Other
-- Gitlab
+### Version Control Systems
+
+> [!IMPORTANT]
+> Currently evaluating version control systems that align with true FOSS ethos. Self hosting is inevitable. 
+
+<a href="https://about.gitlab.com/grow-dojo/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/330px-GitLab_logo.svg.png" alt="gitlab" height="40" width="131" /></a>
+<br> <a href="https://codeberg.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Codeberg_logo_horizontal.svg/330px-Codeberg_logo_horizontal.svg.png"
+alt="codeburg" height="40" width="178" /></a> <br>
+<a href="https://www.forgejo.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Forgejo-wordmark.svg/330px-Forgejo-wordmark.svg.png"
+alt="forejo self hosted" height="40" width="107" /></a> 
+<br>
 - dev.io
-<!--- self-hosting --->
-- Codeburg (lol)
 ### Community
 <!-- add tip and link to Community.md -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg" alt="Element" height="40" width="40" /> <img src="https://simplex.chat/img/new/logo-symbol-light.svg" alt="simplex chat" height="40" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Session_App_Logo.svg/250px-Session_App_Logo.svg.png" alt="session" height="40" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> <a href="https://t.me/+5Gd7C8qUyopiODZl">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a>
 
-- Email - contact 
 - Briar - contact
 - Wire - contact / community 
 - Discord?
