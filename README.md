@@ -151,4 +151,6 @@ EDU_SOURCES.md</a> file contains a list of resources ranging from tech to Hortic
 - CS50
 - Coding Books 📚 
 - Coding Sites 🌐
- 
+
+### The GrowDojo Student Project
+A seperate repository that aims to provide cross-curriculum STEAM lessons for students from homeschool to public school. If you are a teacher and/or parent please check GrowDojo Students repo for more information.
