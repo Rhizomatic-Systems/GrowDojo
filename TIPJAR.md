@@ -10,6 +10,8 @@ bc1qv4jll64rlgxa4qlwewa0ce923z9n2xu3m9yylp
 ```
 benignspruce55@walletofsatoshi.com
 ```
+<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/Lightning_Network.jpg" width="200" height="200" alt="Bitcoin Lightning Address" />
+
 ### Monero (XMR) <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32/color/xmr.png" width="20" height="20" alt="monero logo" />
 **Address:**
 
