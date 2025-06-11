@@ -28,20 +28,45 @@ An opensource modular and scaleable agricultural environment monitor and control
 These are some of the guiding philosophies that shape how the project develops and its function:
 - Dentralization
 - Peer-based-production
-- Code is Free Speech
 - Privacy and Anonymity
 - Trustless 
 - Apolitical
 <p align="center">
-
 <a href="https://oshwa.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" alt="open source hardware" height="100" width="95" /></a> 
-<a href="https://freeopensourcesoftware.org//index.php/Main_Page"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Free_and_open-source_software_logo_%282009%29.svg" alt="free and open source software" height="100" width="100" /></a> </p>
+<a href="https://freeopensourcesoftware.org//index.php/Main_Page"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Free_and_open-source_software_logo_%282009%29.svg" alt="free and open source software" height="100" width="100" /></a> 
+<a href="https://codeisfreespeech.com/">
+<img src="https://www.codeisfreespeech.com/cfs-banner.jpg" alt="code is free speech" /></a>
+</p>
 
-## Tools Used / Contributions
-### Hardware, Languages, Protocols, and Programs 
-<!-- to split into sections of their own --> 
-<p align="left"> 
+## Tools Used / Contributions 
+<!-- to split into sections of their own
+### Hardware
+<p align="center">
+
+
+### Systems
+<p align="center">
+
+
+### Languages In Use / To Be Used
+<p align="center">
+
+
+### Languages To Be Explored
+<p align="center">
+
+
+### Protocols
+<p align="center">
+
+
+### Software (recommended)
+<p align="center">
+
+--> 
+### Hardware, Languages, Protocols, and Programs
+<p align="center"> 
 <a href="https://www.arduino.cc/" target="arduino"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/></a> <a href="https://reticulum.network/"> <img src="https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/source/graphics/rns_logo_512.png" alt="reticulum network" width="40" height="40"/></a> <a href="https://xmpp.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" alt="xmpp" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/manual/bash.html"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> <a href="https://grafana.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a> <a href="https://www.gimp.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gimp/gimp-original.svg" alt="GIMPshop" width="40" height="40"/></a> <a href="https://go.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go lang" width="40" height="40"/></a> <a href="https://inkscape.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="40" height="40"/></a> <a href="http://oracle.com/java/"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/LoRa"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/330px-LoRaWAN_Logo.svg.png"
 alt="lorawan" height="40" width="128" /></a> <a href="https://www.github.com/nostr"> <img src="https://static.wikia.nocookie.net/logopedia/images/b/bc/103332273.jpg/revision/latest?cb=20221218195746"
 alt="nostr protocol" height="40" width="40" /></a> <a href="https://www.raspberrypi.com/">
@@ -54,7 +79,10 @@ alt="bitcoin lightning network" height="40" width="40" /></a> <a href="https://e
 alt="markdown" height="40" width="65" /></a> <a href="https://forgejo.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Forgejo_logo.svg/250px-Forgejo_logo.svg.png"
 alt="forgejo" height="40" width="40" /></a> 
-<a href="https://micropython.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/250px-Micropython-logo.svg.png" alt="micropython" height="40" width="40" /></a> <a href="https://nodejs.org/en"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40" /></a> <a href="https://www.javascript.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40" /></a> <a href="https://www.tensorflow.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="40" width="40" /></a> <a href="https://pytorch.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40" width="40" /></a> <a href="https://pandas.pydata.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="python data analysis library" height="40" width="40" /></a> <a href="https://numpy.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40" /></a> <a href="https://www.typescriptlang.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40" /></a> <a href="https://react.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40" width="40" /></a> <a href="https://vuejs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue.js" height="40" width="40" /></a> <a href="https://www.influxdata.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" alt="influxDB" height="40" width="40" /></a> <a href="https://nodered.org/"> <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="nodered" height="40" width="40" /></a> <a href="https://www.home-assistant.io/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Home_Assistant_logo_%282023%29.svg/240px-Home_Assistant_logo_%282023%29.svg.png" alt="home-assistant" height="40" width="40" /></a> <a href="https://en.wikipedia.org/wiki/Wi-Fi"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WiFi_Logo.svg/330px-WiFi_Logo.svg.png" alt="wifi" height="40" width="67" /></a> <a href="https://en.wikipedia.org/wiki/Bluetooth_Low_Energy"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bluetooth.svg/250px-Bluetooth.svg.png" alt="bluetooth low energy" height="40" width="26" /></a> <a href="https://vscodium.com/"> <img src="https://vscodium.com/img/codium_cnl.svg" alt="vscodium" height="40" width="40" /> </a>
+<a href="https://micropython.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/250px-Micropython-logo.svg.png" alt="micropython" height="40" width="40" /></a> <a href="https://nodejs.org/en"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40" /></a> <a href="https://www.javascript.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40" /></a> <a href="https://www.tensorflow.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="40" width="40" /></a> <a href="https://pytorch.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40" width="40" /></a> <a href="https://pandas.pydata.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="python data analysis library" height="40" width="40" /></a> <a href="https://numpy.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40" /></a> <a href="https://www.typescriptlang.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40" /></a> <a href="https://react.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40" width="40" /></a> <a href="https://vuejs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue.js" height="40" width="40" /></a> <a href="https://www.influxdata.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" alt="influxDB" height="40" width="40" /></a> <a href="https://nodered.org/"> <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="nodered" height="40" width="40" /></a> <a href="https://www.home-assistant.io/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Home_Assistant_logo_%282023%29.svg/240px-Home_Assistant_logo_%282023%29.svg.png" alt="home-assistant" height="40" width="40" /></a> <a href="https://en.wikipedia.org/wiki/Wi-Fi"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WiFi_Logo.svg/330px-WiFi_Logo.svg.png" alt="wifi" height="40" width="67" /></a> <a href="https://en.wikipedia.org/wiki/Bluetooth_Low_Energy"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bluetooth.svg/250px-Bluetooth.svg.png" alt="bluetooth low energy" height="40" width="26" /></a> <a href="https://vscodium.com/"> <img src="https://vscodium.com/img/codium_cnl.svg" alt="vscodium" height="40" width="40" /></a> <a href="https://www.torproject.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/306px-Tor-logo-2011-flat.svg.png" alt="the onion router" height="40" width="66" /></a> <a href="https://geti2p.net/en/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/I2P_logo.svg"
+alt="i2p" height="40" width="192" /></a> 
 
 </p>
 
