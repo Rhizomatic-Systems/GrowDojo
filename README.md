@@ -33,7 +33,10 @@ These are some of the guiding philosophies that shape how the project develops a
 - Trustless 
 - Apolitical
 <p align="center">
-<a href="https://oshwa.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" alt="open source hardware" height="100" width="95" /> </a><a href="https://freeopensourcesoftware.org//index.php/Main_Page"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Free_and_open-source_software_logo_%282009%29.svg" alt="free and open source software" height="100" width="100" /></a> </p>
+
+<a href="https://oshwa.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" alt="open source hardware" height="100" width="95" /></a> 
+<a href="https://freeopensourcesoftware.org//index.php/Main_Page"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Free_and_open-source_software_logo_%282009%29.svg" alt="free and open source software" height="100" width="100" /></a> </p>
 
 ## Tools Used / Contributions
 ### Hardware, Languages, Protocols, and Programs 
