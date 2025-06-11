@@ -6,7 +6,7 @@
 ```
 bc1qv4jll64rlgxa4qlwewa0ce923z9n2xu3m9yylp
 ```
-**Lightning 🗲 Address:**
+**BTC Lightning Address:**
 ```
 benignspruce55@walletofsatoshi.com
 ```
@@ -41,10 +41,11 @@ H3NfaRZD8sPtcPRNLymjkPFT9onuFqdKiQ3XST2tZBbg
 GB5QFSVYUY7WQYEXYWNHSNXOSFHNABSDD7TQ7XKXHLXGLO7HLO2P64QP
 ```
 ## P2P Crowdfunding Platforms
-
+Currently evaluating
 ## Fiat Donations
-
+Currently evaluating 
 
 ---
 
 # Open Ledger
+Donations made by individuals or organizations and it's usage are listed in our open ledger. 
