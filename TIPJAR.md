@@ -1,5 +1,5 @@
 # GrowDojo TipJar
-<!-- document version 0.1.0 todo: how funds are used, why they are needed, link to open ledger, QR codes for every address -->
+<!-- document version 0.1.7 todo: how funds are used, why they are needed, link to open ledger, QR codes for every address -->
 ## Direct Crypto Donations
 ### Bitcoin (BTC) <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32/color/btc.png" width="20" height="20" alt="bitcoin logo" />
 **Address (Bech32):**
@@ -16,7 +16,11 @@ benignspruce55@walletofsatoshi.com
 **Address:**
 
 ### ZCash (ZEC) <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32/color/zec.png" width="20" height="20" alt="zcash logo" />
-**Address:**
+**Address (Orchard):**
+```
+u1ur33zdr53c4j4edur20rtlwwj0cwjf52t30a7rhnd4a6frzk0a3nyk7gcycwz7vstvl6sxtgx7hk39nmxqhq2wfyssygn5s8hy7s6qlw
+```
+<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/ZCASH_ORCHARD_ADDRESS.png" width="200" height="200" alt="zcash orchard address" />
 
 ### Ethereum (ETH) & ERC20 Tokens <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32/color/eth.png" width="20" height="20" alt="ethereum logo" />
 **Address:**
@@ -30,16 +34,22 @@ benignspruce55@walletofsatoshi.com
 ```
 ltc1q8ttuwn6atchp0sg96aas0pwvjznsjn8neyw3mx
 ```
+<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/LITECOIN-QR.PNG" width="200" height="200" alt="litecoin qr code" />
+
 ### Solana (SOL) <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32/color/sol.png" width="20" height="20" alt="solana logo" />
 **Address:**
 ```
 H3NfaRZD8sPtcPRNLymjkPFT9onuFqdKiQ3XST2tZBbg
 ```
+<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/SOL-QR.PNG" width="200" height="200" alt="erc20 qr code" />
+
 ### Stellar (XLM) <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32/color/xlm.png" width="20" height="20" alt="solana logo" />
 **Address:**
 ```
 GB5QFSVYUY7WQYEXYWNHSNXOSFHNABSDD7TQ7XKXHLXGLO7HLO2P64QP
 ```
+<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/STELLAR-QR.PNG" width="200" height="200" alt="erc20 qr code" />
+
 ## P2P Crowdfunding Platforms
 Currently evaluating
 ## Fiat Donations
