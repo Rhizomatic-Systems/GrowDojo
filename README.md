@@ -1,14 +1,23 @@
 <img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.2.2
+<!--- readme.md version 1.2.3
 File contributors:
 • @Rhizosphere
 ToDo:
 - Add Mastodon address
 - Add steemit and Odysee 
 - Create and add more community links
-- Create CONTACT.md and header
+- Writeup CONTACT.md and header
 - Upload PGP key
 - Create centralized to-do for all docs work
+- diagrams 
+- litepaper
+- whitepaper
+- gitbook link
+- DIP & DIP-Ideas
+- Data storage over distributed networks
+- Environment monitor network
+- GrowDojo Stack Explained
+- GLOSSARY.md
 --->
 
 An opensource modular and scaleable agricultural environment monitor and controller for any crop, any where in the world, using any cultivation method such as:
