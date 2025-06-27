@@ -94,7 +94,6 @@ Potentials:
 - Lua
 - ParaSail
 - Blockchain
-- Bluetooth
 
 ### Contributions Beyond Code
 There are many ways to contribute to The GrowDojo Project that do not require the use of code. 
@@ -115,11 +114,13 @@ TIPJAR.md</a> for Contribution methods. Financial contributions allow for:
 
 > [!TIP]
 > Refer to CONTACT.md to choose the best method of communication for your current situation.
-
+<p align="center">
 <a href="https://t.me/+5Gd7C8qUyopiODZl">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a> <a href="mailto:growdojo@protonmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram private group" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a> <a href="mailto:growdojo@protonmail.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ProtonMail_icon.svg/106px-ProtonMail_icon.svg.png"
-alt="proton mail" height="40" width="49" /></a> 
+alt="proton mail" height="40" width="49" /></a> <a href="https://matrix.to/#/@growdojo:matrix.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg"
+alt="Element/Matrix Public Group" height="40" width="40" /></a> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> </p>
 
 ## Beyond GitHub
 ### Social Media
