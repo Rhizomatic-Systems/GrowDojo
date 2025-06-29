@@ -1,11 +1,13 @@
 # GrowDojo TipJar
-<!-- document version 0.1.7 todo: how funds are used, why they are needed, link to open ledger, QR codes for every address -->
+<!-- document version 0.1.8 todo: how funds are used, why they are needed, link to open ledger, QR codes for every address -->
 ## Direct Crypto Donations
 ### Bitcoin (BTC) <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32/color/btc.png" width="20" height="20" alt="bitcoin logo" />
 **Address (Bech32):**
 ```
 bc1qv4jll64rlgxa4qlwewa0ce923z9n2xu3m9yylp
 ```
+<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/GD_BTC_QR.png" width="200" height="200" alt="bitcoin bech32 address" />
+
 **BTC Lightning Address:**
 ```
 benignspruce55@walletofsatoshi.com
