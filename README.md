@@ -119,7 +119,7 @@ TIPJAR.md</a> for Contribution methods. Financial contributions allow for:
 - Providing small financial rewards to contributors
 - Running the GrowDojo infrastructure (paying for services such as hosting)
 <!-- accepted currency icon row 20px centered paragraph -->
-## Contact 
+## CONTACT
 
 > [!TIP]
 > Refer to CONTACT.md to choose the best method of communication for your current situation.
@@ -131,7 +131,7 @@ alt="proton mail" height="40" width="49" /></a> <a href="https://matrix.to/#/@gr
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg"
 alt="Element/Matrix Public Group" height="40" width="40" /></a> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> </p>
 
-## Beyond GitHub
+## BEYOND GITHUB
 ### Social Media
 <a href="https://www.instagram.com/grow.dojo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/250px-Instagram_logo_2022.svg.png" alt="instagram profile" width="40" height="width" /></a> <a href="https://www.threads.net/@grow.dojo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/250px-Threads_%28app%29.svg.png"
