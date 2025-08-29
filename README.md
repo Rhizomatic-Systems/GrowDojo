@@ -1,5 +1,5 @@
-<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.2.3
+<img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
+<!--- readme.md version 1.2.4
 File contributors:
 • @Rhizosphere
 ToDo:
