@@ -1,7 +1,8 @@
 <img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.2.4
+<!--- readme.md version 1.2.5
 File contributors:
 • @Rhizosphere
+• @sean-michael-starr
 ToDo:
 - Add Mastodon address
 - Add steemit and Odysee 
@@ -32,7 +33,8 @@ An opensource modular and scaleable agricultural environment monitor and control
 - Able to be replicated using easily accessible parts.
 - Level of complexity to be determined by each maker.
 - Provide a part of the technical solution to the politically exasperated problem of food scarcity.
-
+## Concept
+<!-- images of stack goes here -->
 ## The GrowDojo Ethos
 These are some of the guiding philosophies that shape how the project develops and its function:
 - Dentralization
