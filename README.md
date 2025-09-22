@@ -1,5 +1,5 @@
 <img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.2.5
+<!--- readme.md version 1.3.6
 File contributors:
 • @Rhizosphere
 • @sean-michael-starr
@@ -106,6 +106,12 @@ Potentials:
 - ParaSail
 - Blockchain
 
+#### Hardware Considerations/Requirements
+Design is based on the idea that a Raspberry Pi (model pending) is the "biggest" system needed for operators (yet will still be compatible with x86 and other larger systems, with Linux being the operating system.  
+
+For Developer-Operators there is obviously the need to connect various Arduino and Raspberry Pi models - micro controllers and Single Board Computers (SBCs) using whatever system and programs that you are familiar/comfortable using.
+> [!TIP]
+> Those new to DevOps can find recommendations within the EDUCATION section of the docs. 
 ### Contributions Beyond Code
 There are many ways to contribute to The GrowDojo Project that do not require the use of code. 
 #### Beta Testers (Operators)
@@ -123,8 +129,8 @@ TIPJAR.md</a> for Contribution methods. Financial contributions allow for:
 <!-- accepted currency icon row 20px centered paragraph -->
 ## CONTACT
 
-> [!TIP]
-> Refer to CONTACT.md to choose the best method of communication for your current situation.
+> [!IMPORTANT]
+> Refer to CONTACT.md to choose the best method of communication for your current situation and the most recent information regarding forms of contact.
 <p align="center">
 <a href="https://t.me/+5Gd7C8qUyopiODZl">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram private group" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a> <a href="mailto:growdojo@protonmail.com">
