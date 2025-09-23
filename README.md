@@ -43,6 +43,7 @@ GrowDojo Terminal
 GrowDojo Rhizome
 GrowDojo Hub
 -->
+
 ## The GrowDojo Ethos
 These are some of the guiding philosophies that shape how the project develops and its function:
 - Dentralization
