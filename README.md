@@ -1,5 +1,5 @@
 <img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.3.7
+<!--- readme.md version 1.3.8
 File contributors:
 • @Rhizosphere
 • @sean-michael-starr
@@ -191,7 +191,7 @@ alt="forejo self hosted" height="40" width="107" /></a>
 - dev.io
 ### Community
 <!-- add tip and link to Community.md -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg" alt="Element" height="40" width="40" /> <img src="https://simplex.chat/img/new/logo-symbol-light.svg" alt="simplex chat" height="40" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Session_App_Logo.svg/250px-Session_App_Logo.svg.png" alt="session" height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Element_%28software%29_logo_%282020%29.svg/54px-Element_%28software%29_logo_%282020%29.svg.png" alt="Element" height="40" width="40" /> <img src="https://simplex.chat/img/new/logo-symbol-light.svg" alt="simplex chat" height="40" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Session_App_Logo.svg/250px-Session_App_Logo.svg.png" alt="session" height="40" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> <a href="https://t.me/+5Gd7C8qUyopiODZl">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a>
 
