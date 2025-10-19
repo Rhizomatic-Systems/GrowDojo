@@ -1,5 +1,5 @@
 <img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.3.8
+<!--- readme.md version 1.4.9
 File contributors:
 • @Rhizosphere
 • @sean-michael-starr
@@ -21,6 +21,9 @@ ToDo:
 - GLOSSARY.md
 --->
 
+>[!IMPORTANT]
+>Until repository management has been adequately delegated it is recommended to use the @Rhizomatic-Systems <a href="https://github.com/Rhizomatic-Systems/GrowDojo">Grow Dojo</a> repository for more up-to-date information. Forking can be done from either repo. 
+
 An opensource modular and scaleable agricultural environment monitor and controller for any crop, any where in the world, using any cultivation method such as:
   - hydroponics
   - traditional
@@ -37,11 +40,14 @@ An opensource modular and scaleable agricultural environment monitor and control
 <img src="https://github.com/Sean-Michael-Starr/GrowDojo/blob/main/img/GrowDojoStackConcept-v1.png" alt="The GrowDojo Stack" />
 <!--
 Stack Ideas:
-GrowDojo Master - gives feedback to operators 
+GrowDojo Master
 GrowDojo Station
 GrowDojo Terminal
 GrowDojo Rhizome
 GrowDojo Hub
+GrowKnowD from GrowNode - suggestions to operators
+GD System
+GD Mainframe
 -->
 
 ## The GrowDojo Ethos
