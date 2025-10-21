@@ -1,5 +1,5 @@
 <img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.4.9
+<!--- readme.md version 1.5.10
 File contributors:
 • @Rhizosphere
 • @sean-michael-starr
@@ -57,6 +57,7 @@ These are some of the guiding philosophies that shape how the project develops a
 - Privacy and Anonymity
 - Trustless 
 - Apolitical
+- Right-to-Repair
 <p align="center">
 <a href="https://oshwa.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" alt="open source hardware" height="100" width="95" /></a> 
@@ -122,7 +123,7 @@ Potentials:
 - Blockchain
 
 #### Hardware Considerations/Requirements
-Design is based on the idea that a Raspberry Pi (model pending) is the "biggest" system needed for operators (yet will still be compatible with x86 and other larger systems, with Linux being the operating system.  
+Design is based on the idea that a Raspberry Pi (model pending) is the "biggest" system needed for operators, yet will still be compatible with x86 and other larger systems, with Linux being the operating system.  
 
 For Developer-Operators there is obviously the need to connect various Arduino and Raspberry Pi models - micro controllers and Single Board Computers (SBCs) using whatever system and programs that you are familiar/comfortable using.
 > [!TIP]
