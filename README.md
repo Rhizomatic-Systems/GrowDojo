@@ -1,5 +1,5 @@
 <img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.5.10
+<!--- readme.md version 1.5.11
 File contributors:
 • @Rhizosphere
 • @sean-michael-starr
@@ -152,7 +152,7 @@ TIPJAR.md</a> for Contribution methods. Financial contributions allow for:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram private group" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a> <a href="mailto:growdojo@protonmail.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ProtonMail_icon.svg/106px-ProtonMail_icon.svg.png"
 alt="proton mail" height="40" width="49" /></a> <a href="https://matrix.to/#/@growdojo:matrix.org">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Element_%28software%29_logo_%282020%29.svg/54px-Element_%28software%29_logo_%282020%29.svg.png"
 alt="Element/Matrix Public Group" height="40" width="40" /></a> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> </p>
 
 ## BEYOND GITHUB
