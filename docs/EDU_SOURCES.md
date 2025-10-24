@@ -1,7 +1,8 @@
 # Educational Resources
-<!-- Doc Version 0.4.2
+<!-- Doc Version 0.4.2 alpha
 Contributors:
 @rhizosphere
+@seanmichaelstarr
 (leave your name here)
 New link = minor update 
 -->
@@ -21,6 +22,8 @@ New link = minor update
 💾 Data Download <br>
 📺 Video Based <br>
 🔊 Audio Based <br>
+📚 Online Course <br>
+📖 Book <br>
 **Difficulty Level** <br>
 🟩 Beginner <br>
 🟨 Intermediate <br>
