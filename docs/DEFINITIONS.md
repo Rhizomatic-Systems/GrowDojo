@@ -1,5 +1,5 @@
 <!--
-Doc Ver 0.1.0
+Doc Ver 0.2.0 alpha
 Document Purpose: Definitions of GD Stack terminology
 Doc Comtributors:
 - @seanmichaelstarr
@@ -8,6 +8,7 @@ Doc Comtributors:
 
 ## GROWDOJO STACK SPECIFIC 
 - Stack : A GD users choice of modules and other functions
-- DIP : Dojo Improvement Proposition (see DIPS.md for more) 
+- DIP : Dojo Improvement Proposition (see DIPS.md for more)
+- DOPE : Data On Provious Examinations  
 
 ## TECHNICAL DEFINITIONS
