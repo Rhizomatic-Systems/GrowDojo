@@ -1,5 +1,5 @@
 <img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.6.12
+<!--- readme.md version 1.6.13
 File contributors:
 • @Rhizosphere
 • @sean-michael-starr
@@ -20,7 +20,9 @@ ToDo:
 - GrowDojo Stack Explained
 - GLOSSARY.md
 --->
+
 # Introduction 
+
 >[!IMPORTANT]
 >Until repository management has been adequately delegated it is recommended to use the @Rhizomatic-Systems <a href="https://github.com/Rhizomatic-Systems/GrowDojo">Grow Dojo</a> repository for more up-to-date information. Forking can be done from either repo. 
 
@@ -37,7 +39,7 @@ An opensource modular and scaleable agricultural environment monitor and control
 - Level of complexity to be determined by each maker.
 - Provide a part of the technical solution to the politically exasperated problem of food scarcity.
 ## Concept 💡
-<img src="https://github.com/Sean-Michael-Starr/GrowDojo/blob/main/img/GrowDojoStackConcept-v1.png" alt="The GrowDojo Stack" />
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/GrowDojo/refs/heads/main/img/GrowDojoStackConcept-v1.png" alt="The GrowDojo Stack" />
 <!--
 Stack Ideas:
 GrowDojo Master
