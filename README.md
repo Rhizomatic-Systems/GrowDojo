@@ -1,5 +1,5 @@
 <img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.6.14
+<!--- readme.md version 1.7.14
 File contributors:
 • @Rhizosphere
 • @sean-michael-starr
@@ -158,6 +158,24 @@ TIPJAR.md</a> for Contribution methods. Financial contributions allow for:
 alt="proton mail" height="40" width="49" /></a> <a href="https://matrix.to/#/@growdojo:matrix.org">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Element_%28software%29_logo_%282020%29.svg/54px-Element_%28software%29_logo_%282020%29.svg.png"
 alt="Element/Matrix Public Group" height="40" width="40" /></a> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> </p>
+
+# PGP Key
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZaH6xxYJKwYBBAHaRw8BAQdAhkTvgYsXdf4gjOuu/EUcViWtA6wjzUUAnWcc
+JMLUYHS0Ikdyb3dEb2pvIDxncm93ZG9qb0Bwcm90b25tYWlsLmNvbT6ImQQTFgoA
+QRYhBLLGJ7zXMzBohdqFKMSBQi10W8KHBQJlofrHAhsjBQkFlZp5BQsJCAcCAiIC
+BhUKCQgLAgQWAgMBAh4HAheAAAoJEMSBQi10W8KHBbwA/i1HaOJzJ4j2bD8ul7CB
+Gg0pgnLTcom/JvimsXeSlxm8AQDavgdKQeYi4YXiDMtbSlgWsNHJHkssyZwLWBoO
+1retD7g4BGWh+scSCisGAQQBl1UBBQEBB0DjEz/2jEi85HVMoSn1AqFZd9xTA1Xe
+qtWqY6Y58ue2AwMBCAeIfgQYFgoAJhYhBLLGJ7zXMzBohdqFKMSBQi10W8KHBQJl
+ofrHAhsMBQkFlZp5AAoJEMSBQi10W8KHhdwA/2Zwna1k09AzYuscb0n1cC98qp/e
+KhwxRYljIHX1OLbdAP9kymWIx5QRL3GH4GXzdqIxX+/tdHOeehO4d/Z8q9X7Cw==
+=ueOI
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 # BEYOND GITHUB ➡️
 ## Social Media 📢
